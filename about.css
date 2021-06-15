@@ -1,0 +1,124 @@
+@import url(https://fonts.googleapis.com/css?family=Istok+Web:400,700);
+body{
+  font-family: 'Istok Web', sans-serif;
+  color: #fafafa;
+}
+.gradient {
+    position: relative;
+    padding: 10% 8%;
+  text-align: center;
+    background-image: -webkit-linear-gradient(45deg,#F5D773,#F96C48 50%,#DB466B);
+    background-image: linear-gradient(45deg,#A62671,#F96C48 50%,#F5D773);
+    margin-top: 10px;
+    height:560px;
+    width:1600px;
+}
+.buttons{
+    justify-content: space-between;
+    display: grid;
+}
+.Home{
+    margin-left: 500px;
+    margin-top: -62px ;
+    height: 30px;
+    width: 80px;
+    font-size: 20;
+    color: white;
+}
+.about{
+    margin-left: 650px;
+    margin-top: -62px;
+    height: 30px;
+    width: 80px;
+    font-size: 20;
+    color: white;
+}
+.work{
+   margin-left: 800px;
+    margin-top: -62px;
+    height: 30px;
+    width: 80px;
+    font-size: 20;
+    color: white;
+}
+.con{
+   margin-left: 950px;
+    margin-top: -62px;
+    height: 30px;
+    width: 80px;
+font-size: 20;
+color: white;
+
+}
+.me{
+    margin-left: -1700px;
+    margin-top: -140px;
+    
+}
+.img2{
+    width: 300px;
+    margin-left: -1000px;
+    margin-top: 10px;
+}
+.hemi{
+    
+    margin-left: 200px ;
+    margin-top: 120px;
+    width: 400px;
+    font-size: 40;
+}
+.p1{
+   
+    text-align: center;
+    width: 240px;
+    margin-left:280px;
+    color: white;
+    font-size: 20;
+}
+.gaming{
+    width: 150px;
+    margin-left: 840px;
+    margin-top: -670px;
+    font-size: 40;
+}
+.p2{
+    width: 200px;
+    margin-left: 820px;
+    margin-top: 295px;
+    text-align: center;
+    font-size: 20;
+    
+}
+.img3{
+    width: 300px;
+    margin-top: -580px;
+    margin-left: 130px;
+}
+.foot{
+   
+    width: 150px;
+    margin-left: 1400;
+    margin-top: -690px;
+}
+.p3{
+    
+    width: 200px;
+    margin-left: 1380px;
+    margin-top: 290px;
+    font-size: 20;
+}
+.img4{
+    width: 200px;
+    margin-left: 1260px;
+    margin-top: -600px;
+    height: 200px;
+}
+.sec1{
+    margin-left: -200px;
+}
+.sec2{
+    margin-left: -100px;
+}
+.sec3{
+    margin-left: -100px;
+}
